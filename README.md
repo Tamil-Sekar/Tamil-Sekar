@@ -53,6 +53,8 @@ HTML5 • CSS3
 
 👉 https://tamil-sekar.github.io/Travel-Project/
 
+🔗 GitHub: https://github.com/Tamil-Sekar/Travel-Project
+
 ---
 
 ### 🎨 Graphic Design Portfolio
