@@ -33,13 +33,25 @@ I create clean, intuitive, and responsive digital experiences with a strong focu
 
 ## 🚀 Featured Projects
 
-### ✈️ Travel Landing Page
+# ✈️ Travel Landing Page
 
-A modern and responsive travel landing page designed and developed using HTML and CSS.
+A modern and responsive travel landing page designed with a focus on clean UI and user experience.
 
-👉 [View Live Demo](https://tamil-sekar.github.io/Travel-Project/)
+## Key Features
 
-👉 [View Source Code](https://github.com/Tamil-Sekar/Travel-Project)
+- 📱 Responsive Design
+- 🧭 Modern Navigation
+- 🌍 Travel Destination Sections
+- 🎨 Clean and Intuitive UI
+- 💻 Mobile-Friendly Interface
+
+## Tech Stack
+
+HTML5 • CSS3
+
+## 🔗 Live Demo
+
+👉 https://tamil-sekar.github.io/Travel-Project/
 
 
 ### 🎨 Graphic Design Portfolio
