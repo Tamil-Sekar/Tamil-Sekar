@@ -75,9 +75,9 @@ HTML5 • CSS3
 
 ## 🔗 Live Demo
 
-👉 https:tamil-sekar.github.io/Furniture-Landingpage/
+👉 https://tamil-sekar.github.io/Furniture-Landingpage/
 
-🔗 GitHub: 
+🔗 GitHub: https://github.com/Tamil-Sekar/Furniture-Landingpage
 
 ---
 
