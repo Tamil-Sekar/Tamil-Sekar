@@ -54,4 +54,3 @@ Brand Identity • Café Design • Visual Design • Mockups
 
 - [LinkedIn](https://www.linkedin.com/in/tamilarasu-s-480750399?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - [Behance](https://www.behance.net/tamilarasus2)
-- [Portfolio]( https://www.behance.net/gallery/254027665/PORTFOLIO)
