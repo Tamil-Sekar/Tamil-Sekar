@@ -27,18 +27,22 @@ I create clean, intuitive, and responsive digital experiences with a strong focu
 
 - Figma
 - Adobe Photoshop
-- Canva
+- Adobe Illustrator
 
 ---
 
 ## 🚀 Featured Projects
 
 ### ✈️ Travel Landing Page
+
 A modern and responsive travel landing page designed and developed using HTML and CSS.
+👉 [View Live Demo](https://tamil-sekar.github.io/Travel-Project/)
+👉 [View Source Code](https://github.com/Tamil-Sekar/Travel-Project)
+
 
 ### 🎨 Graphic Design Portfolio
-Brand Identity • Café Design • Visual Design • Mockups
 
+Brand Identity • Café Design • Visual Design • Mockups
 👉 [View my Behance Portfolio](https://www.behance.net/gallery/254027665/PORTFOLIO)
 
 ---
