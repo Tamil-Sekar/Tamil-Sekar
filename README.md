@@ -57,6 +57,30 @@ HTML5 • CSS3
 
 ---
 
+# 🪑 Furniture Landing Page
+
+A modern and responsive furniture landing page designed with a focus on clean UI, visual aesthetics, and user experience.
+
+## Key Features
+
+- 🪑 Modern Furniture Showcase
+- 🎨 Clean and Minimal UI
+- 📱 Responsive Design
+- 🖼️ Product-focused Visual Layout
+- 💻 Mobile-Friendly Interface
+
+## Tech Stack
+
+HTML5 • CSS3
+
+## 🔗 Live Demo
+
+👉 https://tamil-sekar.github.io/Travel-Project/
+
+🔗 GitHub: https://github.com/Tamil-Sekar/Travel-Project
+
+---
+
 ### 🎨 Graphic Design Portfolio
 
 Brand Identity • Café Design • Visual Design • Mockups
