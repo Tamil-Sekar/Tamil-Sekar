@@ -1,95 +1,102 @@
-# Hi, I'm Tamilarasu S 👋
+# 👋 Hi, I'm Tamilarasu S
 
-### 🎨 UI/UX Designer | Graphic Designer | Frontend Developer
+### UI/UX Designer · Graphic Designer · Frontend Developer
 
-I create clean, intuitive, and responsive digital experiences with a strong focus on visual design, usability, and frontend development.
+I create **clean, intuitive, and responsive digital experiences** with a strong focus on visual design, usability, and frontend development.
 
 ---
 
-## 🎨 Design Skills
+## 🎨 Design
 
-- UI/UX Design
-- Graphic Design
-- Wireframing
-- Prototyping
-- Responsive Design
-- Visual Design
-- Brand Identity
+* UI/UX Design
+* Wireframing
+* Prototyping
+* Visual Design
+* Graphic Design
+* Brand Identity
+* Responsive Design
 
-## 💻 Frontend Skills
+## 💻 Frontend
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
 
-## 🛠️ Design Tools
+## 🛠️ Tools
 
-- Figma
-- Adobe Photoshop
-- Adobe Illustrator
+* Figma
+* Adobe Photoshop
+* Adobe Illustrator
 
 ---
 
 ## 🚀 Featured Projects
 
-# ✈️ Travel Landing Page
+### ✈️ Travel Landing Page
 
-A modern and responsive travel landing page designed with a focus on clean UI and user experience.
+A modern and responsive travel landing page focused on clean UI, visual hierarchy, and user experience.
 
-## Key Features
+**Tech:** `HTML5` · `CSS3`
 
-- 📱 Responsive Design
-- 🧭 Modern Navigation
-- 🌍 Travel Destination Sections
-- 🎨 Clean and Intuitive UI
-- 💻 Mobile-Friendly Interface
+**Highlights**
 
-## Tech Stack
+* Responsive layout
+* Modern navigation
+* Travel destination sections
+* Clean and intuitive UI
+* Mobile-friendly design
 
-HTML5 • CSS3
+**🔗 Links**
 
-## 🔗 Live Demo
-
-👉 https://tamil-sekar.github.io/Travel-Project/
-
-🔗 GitHub: https://github.com/Tamil-Sekar/Travel-Project
+[Live Demo](https://tamil-sekar.github.io/Travel-Project/) · [View Repository](https://github.com/Tamil-Sekar/Travel-Project)
 
 ---
 
-# 🪑 Furniture Landing Page
+### 🪑 Furniture Landing Page
 
-A modern and responsive furniture landing page designed with a focus on clean UI, visual aesthetics, and user experience.
+A modern furniture landing page designed with a focus on visual aesthetics, product presentation, and responsive layout.
 
-## Key Features
+**Tech:** `HTML5` · `CSS3`
 
-- 🪑 Modern Furniture Showcase
-- 🎨 Clean and Minimal UI
-- 📱 Responsive Design
-- 🖼️ Product-focused Visual Layout
-- 💻 Mobile-Friendly Interface
+**Highlights**
 
-## Tech Stack
+* Product-focused visual layout
+* Clean and minimal UI
+* Responsive design
+* Modern furniture showcase
+* Mobile-friendly interface
 
-HTML5 • CSS3
+**🔗 Links**
 
-## 🔗 Live Demo
-
-👉 https://tamil-sekar.github.io/Furniture-Landingpage/
-
-🔗 GitHub: https://github.com/Tamil-Sekar/Furniture-Landingpage
+[Live Demo](https://tamil-sekar.github.io/Furniture-Landingpage/) · [View Repository](https://github.com/Tamil-Sekar/Furniture-Landingpage)
 
 ---
 
-### 🎨 Graphic Design Portfolio
+## 🎨 Graphic Design Portfolio
 
-Brand Identity • Café Design • Visual Design • Mockups
+Brand Identity · Café Design · Visual Design · Mockups
 
-👉 [View my Behance Portfolio](https://www.behance.net/gallery/254027665/PORTFOLIO)
+**[View My Behance Portfolio](https://www.behance.net/tamilarasus2)**
 
 ---
 
-## 🔗 Connect With Me
+## 📌 What I'm Currently Building
 
-- [LinkedIn](https://www.linkedin.com/in/tamilarasu-s-480750399?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- [Behance](https://www.behance.net/tamilarasus2)
+* Responsive websites with HTML & CSS
+* UI/UX projects and prototypes
+* Landing page designs
+* Frontend development skills
+* Personal portfolio
+
+---
+
+## 🤝 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/tamilarasu-s-480750399/) · [Behance](https://www.behance.net/tamilarasus2)
+
+---
+
+<p align="center">
+  <i>Designing interfaces. Building experiences. Learning every day.</i>
+</p>
