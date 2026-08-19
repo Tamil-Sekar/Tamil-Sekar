@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=TAMILARSU%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=UI/UX%2&%&descSize=18&descAlignY=55&textBg=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=TAMILARSU%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=UI/UX Designer%2&%&descSize=18&descAlignY=55&textBg=false"/>
 
 ### UI/UX Designer · Graphic Designer · Frontend Developer
 
