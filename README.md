@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tamilarasu S
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=TAMILARSU%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=UI/UX&%20Designer&%&descSize=18&descAlignY=55&textBg=false"/>
 
 ### UI/UX Designer · Graphic Designer · Frontend Developer
 
@@ -68,20 +68,6 @@ A modern furniture landing page designed with a focus on visual aesthetics, prod
 **🔗 Links**
 
 [Live Demo](https://tamil-sekar.github.io/Furniture-Landingpage/) · [View Repository](https://github.com/Tamil-Sekar/Furniture-Landingpage)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamil-Sekar&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamil-Sekar&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tamil-Sekar)
 
 ---
 
