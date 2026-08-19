@@ -1,4 +1,12 @@
-# 👋 Hi, I'm Tamilarasu S
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Shobanashree%20Neelakandan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Shobanashree-Neelakandan">
+    <img src="https://komarev.com/ghpvc/?username=Shobanashree-Neelakandan&label=Profile%20views&color=00FFFF&style=flat-square" alt="Shobanashree-Neelakandan's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" /># 👋 Hi, I'm Tamilarasu S
 
 ### UI/UX Designer · Graphic Designer · Frontend Developer
 
