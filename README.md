@@ -104,56 +104,24 @@ UI/UX Designer · Graphic Designer · Frontend Developer
 
 ---
 
-# ⛓️ Blackchain Landing Page
+### ⛓️ Blackchain Landing Page
 
-A modern and responsive landing page designed with a clean interface, bold visual presentation, and a focus on creating an engaging web experience.
+A modern and responsive blockchain landing page focused on clean UI, visual hierarchy, and an engaging user experience.
 
+**Tech:** `HTML5` · `CSS3`
 
-## ✨ Features
+**Highlights**
 
-* Responsive landing page
+* Responsive layout
 * Modern navigation
-* Clean and structured layout
-* Attractive visual design
+* Clean and structured UI
+* Bold visual presentation
 * Responsive images and sections
-* Mobile-friendly interface
+* Mobile-friendly design
 
-## 🛠️ Technologies
+**🔗 Links**
 
-* HTML5
-* CSS3
-
-## 📁 Project Structure
-
-```text
-Blackchain-Landingpage/
-│
-├── images/
-├── index.html
-└── ler.css
-```
-
-## 🎯 Project Goal
-
-The goal of this project is to build a modern landing page while practicing HTML and CSS, responsive layouts, visual hierarchy, and frontend design.
-
-## 🎨 Design Focus
-
-* Modern visual design
-* Clean layout
-* Visual hierarchy
-* Responsive design
-* User-friendly interface
-
-## 🌐 Live Demo
-
-[View Live Website](http://127.0.0.1:5500/index.html)
-
-## 👨‍💻 Designed & Developed By
-
-**Tamilarasu S**
-
-UI/UX Designer · Graphic Designer · Frontend Developer
+[Live Demo](https://tamil-sekar.github.io/Blackchain-Landingpage/) · [View Repository](https://github.com/Tamil-Sekar/Blackchain-Landingpage)
 
 ---
 
