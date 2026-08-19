@@ -1,5 +1,5 @@
-
-
+Hi, I'm Tamilarasu 👋
+---
 ### UI/UX Designer · Graphic Designer · Frontend Developer
 
 I create **clean, intuitive, and responsive digital experiences** with a strong focus on visual design, usability, and frontend development.
