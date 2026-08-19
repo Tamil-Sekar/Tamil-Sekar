@@ -52,24 +52,115 @@ A modern and responsive travel landing page focused on clean UI, visual hierarch
 
 ---
 
-### 🪑 Furniture Landing Page
+# 🪑 Furniture Landing Page
 
-A modern furniture landing page designed with a focus on visual aesthetics, product presentation, and responsive layout.
+A modern and responsive furniture landing page designed with a clean, minimal interface and a strong focus on product presentation and visual aesthetics.
 
-**Tech:** `HTML5` · `CSS3`
+## 🖥️ Preview
 
-**Highlights**
-- Product-focused visual layout
-- Clean and minimal UI
-- Responsive design
-- Modern furniture showcase
-- Mobile-friendly interface
+<!-- Add your project screenshot here -->
 
-**🔗 Links**
+## ✨ Features
 
-[Live Demo](https://tamil-sekar.github.io/Furniture-Landingpage/) · [View Repository](https://github.com/Tamil-Sekar/Furniture-Landingpage)
+* Responsive layout
+* Clean and minimal UI
+* Product-focused design
+* Modern furniture showcase
+* User-friendly navigation
+* Mobile-friendly interface
+
+## 🛠️ Technologies
+
+* HTML5
+* CSS3
+
+## 🌐 Live Demo
+
+[View Live Website](YOUR_LIVE_DEMO_LINK)
+
+## 🎯 Project Goal
+
+The goal of this project is to create a modern furniture website with an attractive product presentation while practicing responsive layouts and frontend design using HTML and CSS.
+
+## 🎨 Design Focus
+
+* Visual hierarchy
+* Product presentation
+* Clean typography
+* Responsive design
+* Minimal user interface
+
+## 👨‍💻 Designed & Developed By
+
+**Tamilarasu S**
+
+UI/UX Designer · Graphic Designer · Frontend Developer
 
 ---
+
+<p align="center">
+  <i>Designing interfaces. Building experiences. Learning every day.</i>
+</p>
+
+---
+
+# ⛓️ Blackchain Landing Page
+
+A modern and responsive landing page designed with a clean interface, bold visual presentation, and a focus on creating an engaging web experience.
+
+
+## ✨ Features
+
+* Responsive landing page
+* Modern navigation
+* Clean and structured layout
+* Attractive visual design
+* Responsive images and sections
+* Mobile-friendly interface
+
+## 🛠️ Technologies
+
+* HTML5
+* CSS3
+
+## 📁 Project Structure
+
+```text
+Blackchain-Landingpage/
+│
+├── images/
+├── index.html
+└── ler.css
+```
+
+## 🎯 Project Goal
+
+The goal of this project is to build a modern landing page while practicing HTML and CSS, responsive layouts, visual hierarchy, and frontend design.
+
+## 🎨 Design Focus
+
+* Modern visual design
+* Clean layout
+* Visual hierarchy
+* Responsive design
+* User-friendly interface
+
+## 🌐 Live Demo
+
+[View Live Website](http://127.0.0.1:5500/index.html)
+
+## 👨‍💻 Designed & Developed By
+
+**Tamilarasu S**
+
+UI/UX Designer · Graphic Designer · Frontend Developer
+
+---
+
+<p align="center">
+  <i>Designing interfaces. Building experiences. Learning every day.</i>
+</p>
+
 
 ## 🎨 Graphic Design Portfolio
 
