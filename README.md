@@ -73,18 +73,15 @@ A modern furniture landing page designed with a focus on visual aesthetics, prod
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamil-Sekar&show_icons=true&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamil-Sekar&layout=compact&hide_border=true" height="170" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamil-Sekar&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamil-Sekar&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tamil-Sekar&no-frame=true&no-bg=true&margin-w=8&column=6" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tamil-Sekar)
 
 ---
 
