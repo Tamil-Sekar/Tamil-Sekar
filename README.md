@@ -100,10 +100,30 @@ A modern and responsive blockchain landing page focused on clean UI, visual hier
 
 ---
 
+### 💻 Digital Landing Page
+
+A modern and responsive digital landing page focused on clean UI, visual presentation, responsive design, and user experience.
+
+**Tech:** `HTML5` · `CSS3`
+
+**Highlights**
+
+- Responsive layout
+- Modern navigation
+- Clean and structured UI
+- Attractive visual design
+- Well-organized content sections
+- Mobile-friendly interface
+
+**🔗 Links**
+
+[Live Demo](https://tamil-sekar.github.io/Digital-Landingpage/) · [View Repository](https://github.com/Tamil-Sekar/Digital-Landingpage)
+
 <p align="center">
   <i>Designing interfaces. Building experiences. Learning every day.</i>
 </p>
 
+---
 
 ## 🎨 Graphic Design Portfolio
 
