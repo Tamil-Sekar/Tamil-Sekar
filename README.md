@@ -1,35 +1,33 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=TAMILARAS%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=UI/UX%20%20Designer&descSize=18&descAlignY=55&textBg=false"/>
+# 👋 Hi, I'm Tamilarasu S
 
-Hi, I'm Tamilarasu 👋
----
 ### UI/UX Designer · Graphic Designer · Frontend Developer
 
-I create **clean, intuitive, and responsive digital experiences** with a strong focus on visual design, usability, and frontend development.
+I create clean, intuitive, and responsive digital experiences with a strong focus on visual design, usability, and frontend development.
 
 ---
 
 ## 🎨 Design
 
-* UI/UX Design
-* Wireframing
-* Prototyping
-* Visual Design
-* Graphic Design
-* Brand Identity
-* Responsive Design
+- UI/UX Design
+- Wireframing
+- Prototyping
+- Visual Design
+- Graphic Design
+- Brand Identity
+- Responsive Design
 
 ## 💻 Frontend
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
 
 ## 🛠️ Tools
 
-* Figma
-* Adobe Photoshop
-* Adobe Illustrator
+- Figma
+- Adobe Photoshop
+- Adobe Illustrator
 
 ---
 
@@ -42,12 +40,11 @@ A modern and responsive travel landing page focused on clean UI, visual hierarch
 **Tech:** `HTML5` · `CSS3`
 
 **Highlights**
-
-* Responsive layout
-* Modern navigation
-* Travel destination sections
-* Clean and intuitive UI
-* Mobile-friendly design
+- Responsive layout
+- Modern navigation
+- Travel destination sections
+- Clean and intuitive UI
+- Mobile-friendly design
 
 **🔗 Links**
 
@@ -62,16 +59,32 @@ A modern furniture landing page designed with a focus on visual aesthetics, prod
 **Tech:** `HTML5` · `CSS3`
 
 **Highlights**
-
-* Product-focused visual layout
-* Clean and minimal UI
-* Responsive design
-* Modern furniture showcase
-* Mobile-friendly interface
+- Product-focused visual layout
+- Clean and minimal UI
+- Responsive design
+- Modern furniture showcase
+- Mobile-friendly interface
 
 **🔗 Links**
 
 [Live Demo](https://tamil-sekar.github.io/Furniture-Landingpage/) · [View Repository](https://github.com/Tamil-Sekar/Furniture-Landingpage)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tamil-Sekar&show_icons=true&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamil-Sekar&layout=compact&hide_border=true" height="170" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tamil-Sekar&no-frame=true&no-bg=true&margin-w=8&column=6" />
+</p>
 
 ---
 
@@ -85,11 +98,11 @@ Brand Identity · Café Design · Visual Design · Mockups
 
 ## 📌 What I'm Currently Building
 
-* Responsive websites with HTML & CSS
-* UI/UX projects and prototypes
-* Landing page designs
-* Frontend development skills
-* Personal portfolio
+- Responsive websites with HTML & CSS
+- UI/UX projects and prototypes
+- Landing page designs
+- Frontend development skills
+- Personal portfolio
 
 ---
 
