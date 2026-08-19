@@ -31,7 +31,7 @@ I create clean, intuitive, and responsive digital experiences with a strong focu
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects ##
 
 ### ✈️ Travel Landing Page
 
@@ -52,49 +52,24 @@ A modern and responsive travel landing page focused on clean UI, visual hierarch
 
 ---
 
-# 🪑 Furniture Landing Page
+### 🪑 Furniture Landing Page
 
-A modern and responsive furniture landing page designed with a clean, minimal interface and a strong focus on product presentation and visual aesthetics.
+A modern and responsive furniture landing page focused on clean UI, visual aesthetics, product presentation, and user experience.
 
-## 🖥️ Preview
+**Tech:** `HTML5` · `CSS3`
 
-<!-- Add your project screenshot here -->
-
-## ✨ Features
+**Highlights**
 
 * Responsive layout
 * Clean and minimal UI
-* Product-focused design
+* Product-focused visual layout
 * Modern furniture showcase
 * User-friendly navigation
-* Mobile-friendly interface
+* Mobile-friendly design
 
-## 🛠️ Technologies
+**🔗 Links**
 
-* HTML5
-* CSS3
-
-## 🌐 Live Demo
-
-[View Live Website](YOUR_LIVE_DEMO_LINK)
-
-## 🎯 Project Goal
-
-The goal of this project is to create a modern furniture website with an attractive product presentation while practicing responsive layouts and frontend design using HTML and CSS.
-
-## 🎨 Design Focus
-
-* Visual hierarchy
-* Product presentation
-* Clean typography
-* Responsive design
-* Minimal user interface
-
-## 👨‍💻 Designed & Developed By
-
-**Tamilarasu S**
-
-UI/UX Designer · Graphic Designer · Frontend Developer
+[Live Demo](https://tamil-sekar.github.io/Furniture-Landingpage/) · [View Repository](https://github.com/Tamil-Sekar/Furniture-Landingpage)
 
 ---
 
